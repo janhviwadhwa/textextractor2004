@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "335621151485",
+    "project_id": "textdetector-da506",
+    "storage_bucket": "textdetector-da506.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:335621151485:android:5321d22611d43b3e0ffc94",
+        "android_client_info": {
+          "package_name": "com.example.textextractor2004"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWBdVziOuwosRox7FhzMn6IT5Yp2ym7Ho"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
